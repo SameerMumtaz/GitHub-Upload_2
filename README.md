@@ -17,6 +17,7 @@ The Fire library is used to allow the user to dynamically input values.
 
 The Questionary module is used to enable the user to interact with various functions, using the CLI.
 (https://github.com/tmbo/questionary)
+
 ---
 
 ## Installation Guide
