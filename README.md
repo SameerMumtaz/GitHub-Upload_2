@@ -10,8 +10,13 @@ This is a python command-line interface application that allows users to see qua
 
 ## Technologies
 
-This program was wrtten using Python 3.9.12, along with the Python modules/libraries: questionary, fire, and pandas. The Fire library is used to allow the user to dynamically input values. The Questionary module is used to enable the user to interact with various functions, using the CLI.
+This program was wrtten using Python 3.9.12, along with the Python modules/libraries: questionary, fire, and pandas. 
 
+The Fire library is used to allow the user to dynamically input values. 
+(https://github.com/google/python-fire)
+
+The Questionary module is used to enable the user to interact with various functions, using the CLI.
+(https://github.com/tmbo/questionary)
 ---
 
 ## Installation Guide
